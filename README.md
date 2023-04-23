@@ -23,8 +23,7 @@ Link of the files used
 <li><a href="https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_alt.xml">To detect face</a></li>
 <li><a href="https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_lefteye_2splits.xml">To detect left eye</a></li>
 <li><a href="https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_righteye_2splits.xml">To detect right eye</a></li>
-</p
-
+</p>
 
 # Installation and Execution
 <ol>
