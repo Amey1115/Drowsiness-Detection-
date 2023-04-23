@@ -7,7 +7,7 @@ import webbrowser
 
 def start_clicked():
     messagebox.showinfo("Hello", "Please wait while the system loads...")
-    subprocess.call(["python", "new drowsiness detection.py"])
+    subprocess.call(["python", "drowsiness detection.py"])
 
 
 def exit_clicked():
@@ -32,12 +32,6 @@ welcome_label = tk.Label(
     window, text="Welcome to the Drowsiness Detection System", font=("Helvetica", 24)
 )
 welcome_label.pack(pady=20)
-
-# developed_by = tk.Label(
-#     window, text="Developed by: Ameysingh Bayas    Devika Shrouti", font=("Helvetica", 14)
-# )
-# developed_by.pack(pady=22)
-
 
 # Create a frame to center the buttons
 button_frame = tk.Frame(window)
