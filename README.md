@@ -30,7 +30,7 @@ Link of the files used
     <li>Clone the repository. </li>
     <li>Go to the directory where repository was saved</a> </li>
     <li>Download the above dataset or any other dataset and paste it in the same directory</li>
-    <li>Either rename the dataset as YawnDS or modify the code</li>
     <li>Run the model.py file to train the model. Adjust the parameters as per your convenience</li>
     <li>After the model is trained, open the terminal in that director and type "GUI.py" or "new drowsiness detection.py"</li>
 </ol>
+
